@@ -1,0 +1,21 @@
+# ===== 运行时自动生成(勿提交)=====
+/node/
+/dsh/
+/dsh-home/
+/workspace/
+/temp/
+/npm-cache/
+/browser-profile/
+node_repl_history.txt
+
+# 运行时状态文件
+progress.txt
+ready.flag
+error.txt
+run.lock
+
+# 日志
+*.log
+
+# 构建中间产物
+/src/app.res
